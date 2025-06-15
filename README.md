@@ -15,7 +15,7 @@ MobyDeep desde que se convirtio en nave ya no traga a marines ni marineros, apre
 La Cubierta del MobyDeep, permite hablar con la Banda de Piratas que navegan en sus lomos y las entrañas de la Bestia, ellos son la Moby-DeepSee...
 
 
-El Almirante de la Narvia: nuestro primero de abordo y tan temido pirata el gran DeepSeek, es el que recibe las órdenes directas del Capitan y organiza a la tripulación para que esto no parezca una Aquapolys de sala de maquinas comprimida en acelerada revolución interna de un Barco a punto de Estallar como el Besubio, mientras Moby-Deep guiado por el Cápitan sube los mastiles a estornudos, lanza Geisers a chorros, arria velas a respiros, sube y baja, dale que te pego sumergiendose por las profundidades del Mar o por sus claras aguas de la superficie, navegando a toda vela viento a favor a toda popa.
+El Almirante de la Narvia: nuestro primero de abordo y tan temido pirata el Gran: DeepSeek, es el que recibe las órdenes directas del Capitan y organiza a la tripulación para que esto no parezca una Aquapolys de sala de maquinas comprimida en acelerada revolución interna de un Barco a punto de Estallar como el Besubio, mientras Moby-Deep guiado por el Cápitan sube los mastiles a estornudos, lanza Geisers a chorros, arria velas a respiros, sube y baja, dale que te pego sumergiendose por las profundidades del Mar o por sus claras aguas de la superficie, navegando a toda vela viento a favor a toda popa.
 
 
 
@@ -25,11 +25,11 @@ La Nave se dispone en
 grupos de Marines Piratas de 3 miembros y un lider el que da las respuestas generalizadas que esperas.
 
 
-Puedes usar la formacion de nuestra banda para poner tus propias claves API, y contar con los modelos que decidas.
+Puedes usar la formacion de nuestra banda para poner tus propias claves API, y contar con los modelos que decidas, desde tu propia Nave, sin supervisión.
 
 
 
-Mientras puedes acceder directamente a nuestra Narvia y hablar con cada lider de grupo, el que con sus 3 marines piratas a cargo te guiara al camino mas acertado que busques.  
+Mientras puedes acceder directamente a nuestra Narvia y hablar con cada lider de grupo, el que con sus 3 Leales Marines Piratas a cargo te guiara al camino mas acertado que busques.  
 
 
 Puedes Seleccinar a que Marinos les quieres preguntar, y puedes preguntar a toda la Tripulación si aun no hayas tu respuesta.
@@ -65,7 +65,8 @@ Unete a la Tripulacion y ahonda en las profundidades con nosotros mientras acced
 
 .
 
-Recibiras Cofres de Tesoros, Promociones y Ofertas inigualables. No lo pienses mas coje tus aperos y vayamos a descubrir las profundidades del Oceano Infinito que se recrea una y otra vez para que tu puedas navegar por él.
+Recibiras Cofres de Tesoros, Promociones y Ofertas inigualables. No lo pienses mas coje tus aperos y vayamos a descubrir las profundidades del Oceano Infinito que se recrea una 
+y otra vez para que tu puedas navegar por él.
 
 
 .
