@@ -45,6 +45,9 @@ Ella estara encantada de ayudarte y la tripulación tambien.
 
 
 
+.
+
+
 
 
 Unete a la Nave y busca el Tesoro con nosotros, decenas de aventuras te esperan en este Oceano Infinito. 
@@ -60,11 +63,14 @@ Alistate como Marine Pirata deja tu "feedback" a las respuestas y pronto crearas
 
 Unete a la Tripulacion y ahonda en las profundidades con nosotros mientras accedes a toda la Sabiduría del Conocimiento que ahonda en los Marines mas Sabios y Bravos de los Siete Mares. 
 
+.
 
 Recibiras Cofres de Tesoros, Promociones y Ofertas inigualables. No lo pienses mas coje tus aperos y vayamos a descubrir las profundidades del Oceano Infinito que se recrea una y otra vez para que tu puedas navegar por él.
 
 
+.
 
+.
 
 
 
@@ -93,7 +99,7 @@ La MobyDee se compone de varios grupos que organizan la estrategia, tanto la de 
 
 
 
-La pricipal fuente de Ordenes las Aplica Deepseek junto otros 2, a los que cordina el Jefe de Remeros en los Abordajes, asegurando el buen ritmo y neutralidad en la confrontacion de rivalizar.
+La principal fuente de Ordenes las Aplica Deepseek junto otros 2, a los que cordina el Jefe de Remeros en los Abordajes, asegurando el buen ritmo y la neutralidad en la confrontacion de rivalizar.
 
 
 
