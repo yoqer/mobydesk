@@ -24,7 +24,6 @@ Moby-DeepSee...
 
 
 El Almirante de la Narvia: nuestro primero de abordo y tan temido pirata el Gran: DeepSeek, es el que recibe las órdenes directas del Capitan y organiza a la tripulación para que esto no parezca una Aquapolys de sala de maquinas comprimida en acelerada revolución interna de un Barco a punto de Estallar como el Besubio, mientras Moby-Deep guiado por el Cápitan sube los mastiles a estornudos, lanza Geisers a chorros, arria velas a respiros, sube y baja, dale que te pego sumergiendose por las profundidades del Mar o 
-
 por sus claras aguas de la superficie, navegando a toda vela viento a favor a toda popa.
 
 
