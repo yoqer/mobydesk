@@ -1,4 +1,11 @@
-Bienvenidos a la cubierta del MobyDeep, es un barco para piratas que navega en busca de Tesoros perdidos y nuevas obras magicas del Universo para culminar su voragen ansia de placton y naves malditas, mientras solo en los Siete Mares pocas naves la hacen frente; ya convertidas las Aguas del Mar en un peligroso territorio innavegable.                       
+Bienvenidos a la cubierta del MobyDeep, es un barco para piratas que navega en busca de Tesoros perdidos y nuevas obras magicas del Universo para culminar su voragen ansia de placton y naves malditas, mientras solo en los Siete Mares pocas naves la hacen frente; ya convertidas las Aguas del Mar en un peligroso territorio innavegable.  
+
+
+![IMG_20250414_144112](https://github.com/user-attachments/assets/15f7fc10-e21c-4222-9aaa-4d03afe8e478)
+
+
+
+
 
 Solo la Narvia MobyDeep y el temido Kraken, son las mayores especies Marinas, que navegan por los Siete Mares sin limitacion alguna ni riesgo para sus tripulantes.       
 
