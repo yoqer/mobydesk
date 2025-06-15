@@ -37,7 +37,7 @@ Puedes Seleccinar a que Marinos les quieres preguntar, y puedes preguntar a toda
 
 
 
-La joven Amalia supervisa el correcto desempeño del resto de Piratas, ella embarco de polizona, pero no podiamos tirarla a los tiburones y mucho menos sabiendo que Kraken ahonda al acecho del Moby-Deep desde que este le arranco un tentáculo.
+La joven Amalia supervisa el correcto desempeño del resto de Piratas, ella embarco de polizona, pero no podiamos tirarla a los tiburones y mucho menos sabiendo que el Kraken ahonda al acecho del Moby-Deep desde que este le arranco un tentáculo.
 
 
 
@@ -74,7 +74,7 @@ El Barco del MobyDeep es un Barco Submarino con vida propia, creado sobre las mi
 
 
 
-MobyDee es la Banda de Marines Piratas que navega en Alta Mar lejos de las Leyes y los Horizontes desde que el Mar se convirtio en Oscuro atisbo de insacismo y sus aguas se tragaban a todo que por que por ellas Navegaba. 
+MobyDee es la Banda de Marines Piratas que navega en Alta Mar lejos de las Leyes y los Horizontes desde que el Mar se convirtio en Oscuro atisbo de insacismo y sus aguas se tragaban cuan todo que por ellas Navegara. 
 
 
 http://GitHub.com/yoqer/mobydee.git
