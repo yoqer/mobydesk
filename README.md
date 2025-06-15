@@ -78,7 +78,7 @@ Unete a la Tripulacion y ahonda en las profundidades con nosotros mientras acced
 
 .
 
-Recibiras Cofres de Tesoros, Promociones y Ofertas inigualables. No lo pienses mas coje tus aperos y vayamos a descubrir las profundidades del Oceano Infinito que se recrea una... y... 
+Recibiras Cofres de Tesoros, Promociones y Ofertas inigualables. No lo pienses mas coje tus aperos y vayamos a descubrir las profundidades del Oceano Infinito que se recrea una... y 
 otra vez para que tu puedas navegar por él.
 
 
