@@ -93,7 +93,7 @@ La MobyDee se compone de varios grupos que organizan la estrategia, tanto la de 
 
 
 
-La pricipal fuente de Ordenes las Aplica Deepseek junto a estos 3, a los que cordina el Jefe de Remeros en los Abordajes, asegurando el buen ritmo y neutralidad en la confrontacion de rivalizar.
+La pricipal fuente de Ordenes las Aplica Deepseek junto otros 2, a los que cordina el Jefe de Remeros en los Abordajes, asegurando el buen ritmo y neutralidad en la confrontacion de rivalizar.
 
 
 
@@ -107,7 +107,7 @@ http://GitHub.com/yoqer/mobydeep.git
 
 
 
-Pero todos lideran un grupo de organización, como el de Deepseek, que compone para dar las Órdenes a la Tripulación, a cargo directo del mismisimo Cápitan.
+Pero todos lideran un grupo de organización, como el de Deepseek; el que compone para Sincronizar las Órdenes a la Tripulación, a cargo directo del mismisimo Cápitan.
 
 
 
