@@ -99,7 +99,7 @@ La MobyDee se compone de varios grupos que organizan la estrategia, tanto la de 
 
 
 
-La principal fuente de Ordenes las Aplica Deepseek junto otros 2, a los que cordina el Jefe de Remeros en los Abordajes, asegurando el buen ritmo y la neutralidad en la confrontacion de rivalizar.
+La principal fuente de Ordenes las Aplica Deepseek junto a otros 2,m; a los que coordina el Jefe de Remeros en los Abordajes, asegurando el buen ritmo y la neutralidad en la confrontacion de rivalizar.
 
 
 
@@ -128,4 +128,4 @@ http://GitHub.com/yoqer/deepseek.git
 
 
 
-Pero no es el unico que ahonda con su pandilla, para dirigir los mandos, tambien...
+Pero no es el unico que aboga con su pandilla mas fiel, para dirigir los mandos, tambien...
