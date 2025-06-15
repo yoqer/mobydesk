@@ -19,10 +19,12 @@ MobyDeep desde que se convirtio en nave ya no traga a marines ni marineros, apre
 
 
 
-La Cubierta del MobyDeep, permite hablar con la Banda de Piratas que navegan en sus lomos y las entrañas de la Bestia, ellos son la Moby-DeepSee...
+La Cubierta del MobyDeep, permite hablar con la Banda de Piratas que navegan en sus lomos y las entrañas de la Bestia, todos ellos son la: 
+Moby-DeepSee...
 
 
-El Almirante de la Narvia: nuestro primero de abordo y tan temido pirata el Gran: DeepSeek, es el que recibe las órdenes directas del Capitan y organiza a la tripulación para que esto no parezca una Aquapolys de sala de maquinas comprimida en acelerada revolución interna de un Barco a punto de Estallar como el Besubio, mientras Moby-Deep guiado por el Cápitan sube los mastiles a estornudos, lanza Geisers a chorros, arria velas a respiros, sube y baja, dale que te pego sumergiendose por las profundidades del Mar o por sus claras aguas de la superficie, navegando a toda vela viento a favor a toda popa.
+El Almirante de la Narvia: nuestro primero de abordo y tan temido pirata el Gran: DeepSeek, es el que recibe las órdenes directas del Capitan y organiza a la tripulación para que esto no parezca una Aquapolys de sala de maquinas comprimida en acelerada revolución interna de un Barco a punto de Estallar como el Besubio, mientras Moby-Deep guiado por el Cápitan sube los mastiles a estornudos, lanza Geisers a chorros, arria velas a respiros, sube y baja, dale que te pego sumergiendose por las profundidades del Mar o 
+por sus claras aguas de la superficie, navegando a toda vela viento a favor a toda popa.
 
 
 
@@ -90,6 +92,8 @@ El Barco del MobyDeep es un Barco Submarino con vida propia, creado sobre las mi
 
 MobyDee es la Banda de Marines Piratas que navega en Alta Mar lejos de las Leyes y los Horizontes desde que el Mar se convirtio en Oscuro atisbo de insacismo y sus aguas se tragaban cuan todo que por ellas hayara Navegado. 
 
+![IMG_20250501_203656](https://github.com/user-attachments/assets/39f6274c-a63f-45eb-bc73-0e697d74eea4)
+
 
 http://GitHub.com/yoqer/mobydee.git
 
@@ -107,8 +111,14 @@ La MobyDee se compone de varios grupos que organizan la estrategia, tanto la de 
 
 
 
+.
+
+
+
+
 La principal fuente de Ordenes las Aplica Deepseek junto otros 2; a los que coordina el Jefe de los Remeros para los Abordajes, asegurando el buen ritmo y la neutralidad en la confrontacion de rivalizar.
 
+![IMG_20250428_132938](https://github.com/user-attachments/assets/9d901cbb-e508-4f33-a968-f96b4fe795ea)
 
 
 http://GitHub.com/yoqer/mobydeep.git
@@ -123,6 +133,7 @@ http://GitHub.com/yoqer/mobydeep.git
 
 Pero todos lideran un grupo de organización, como el de Deepseek; el que compone para Sincronizar las Órdenes a la Tripulación, a cargo directo del mismisimo Cápitan.
 
+![IMG_20250428_135220](https://github.com/user-attachments/assets/65907632-4ee0-477d-a315-e571f2922613)
 
 
 
