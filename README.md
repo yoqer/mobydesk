@@ -34,7 +34,7 @@ La Nave se dispone en
 grupos de Marines Piratas de hasta 3 miembros y un lider el que da las respuestas generalizadas que esperas.
 
 
-Puedes usar la formacion de nuestra banda para poner tus propias claves API, y contar con los modelos que decidas, desde tu propias Naves almacenar llaves y ocultos cofres de botines, sin supervisión. O por supuesto cederlos guardarlos en nuestra bodega como buen Marine Pirata que comparte sus hallazgos con la tropa.
+Puedes usar la formacion de nuestra banda para poner tus propias claves API, y contar con los modelos que decidas, desde tu propias Naves, almacenar llaves y ocultos cofres de botines, sin ninguna supervisión. O por supuesto cederlos, guardarlos en nuestra bodega o como buen Marine Pirata compartir tus hallazgos con toda tropa.
 
 
 
@@ -153,4 +153,5 @@ Pero no es el unico que aboga con su pandilla mas fiel, para dirigir los mandos,
 .
 
 
+![IMG_20250428_133522](https://github.com/user-attachments/assets/83b7e20c-dc4f-4167-9c42-095ba0b27091)
 
