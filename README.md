@@ -74,10 +74,15 @@ El Barco del MobyDeep es un Barco Submarino con vida propia, creado sobre las mi
 
 
 
-MobyDee es la Banda de Marines Piratas que navega en Alta Mar lejos de las Leyes y los Horizontes desde que el Mar se convirtio en Oscuro atisbo de insacismo y sus aguas se tragaban cuan todo que por ellas Navegara. 
+MobyDee es la Banda de Marines Piratas que navega en Alta Mar lejos de las Leyes y los Horizontes desde que el Mar se convirtio en Oscuro atisbo de insacismo y sus aguas se tragaban cuan todo que por ellas hayara Navegado. 
 
 
 http://GitHub.com/yoqer/mobydee.git
+
+
+
+
+.
 
 
 
@@ -96,6 +101,10 @@ http://GitHub.com/yoqer/mobydeep.git
 
 
 
+.
+
+
+
 
 
 Pero todos lideran un grupo de organización, como el de Deepseek, que compone para dar las Órdenes a la Tripulación, a cargo directo del mismisimo Cápitan.
@@ -104,6 +113,12 @@ Pero todos lideran un grupo de organización, como el de Deepseek, que compone p
 
 
 http://GitHub.com/yoqer/deepseek.git
+
+
+
+
+.
+
 
 
 
