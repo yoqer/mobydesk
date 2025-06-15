@@ -22,10 +22,10 @@ El Almirante de la Narvia: nuestro primero de abordo y tan temido pirata el Gran
 La Cubierta del MobyDeep la MobyDesk, permite a los Marines o Curiosos, hablar en la Asamblea con toda la Tripulación, de la que recibiras respuestas multiples, pero solo una te resume tu pregunta con la sabiduria de una Tripulacion que piensa en conjunto cual es la mejor respuesta que buscas.                        
 
 La Nave se dispone en 
-grupos de Marines Piratas de 3 miembros y un lider el que da las respuestas generalizadas que esperas.
+grupos de Marines Piratas de hasta 3 miembros y un lider el que da las respuestas generalizadas que esperas.
 
 
-Puedes usar la formacion de nuestra banda para poner tus propias claves API, y contar con los modelos que decidas, desde tu propia Nave, sin supervisión.
+Puedes usar la formacion de nuestra banda para poner tus propias claves API, y contar con los modelos que decidas, desde tu propias Naves almacenar llaves y ocultos cofres de botines, sin supervisión. O por supuesto cederlos guardarlos en nuestra bodega como buen Marine Pirata que comparte sus hallazgos con la tropa.
 
 
 
