@@ -27,9 +27,6 @@ El Almirante de la Narvia: nuestro primero de abordo y tan temido pirata el Gran
 por sus claras aguas de la superficie, navegando a toda vela viento a favor a toda popa.
 
 
-![SIxuqcgiRFRTY02mCziGM](https://github.com/user-attachments/assets/98f3f4a9-5806-4677-949a-3f4357906506)
-![VcgOoO5yuiBY2h0VSkQl4](https://github.com/user-attachments/assets/cadecf94-a34f-4311-8af2-c3944b12be20)
-![GMH6wggIsYH4otQb4C9VT](https://github.com/user-attachments/assets/939a6ecb-f9c3-4554-8614-d1771f115e92)
 ![YLTkMV1kM9BQXT8JPUcLd](https://github.com/user-attachments/assets/dd9768f5-de70-4a24-abfc-22d32d8ffca4)
 
 
