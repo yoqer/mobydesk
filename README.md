@@ -14,7 +14,7 @@ Bienvenidos a la cubierta del MobyDep, es un barco para piratas que navega en bu
 
 Solo la Narvia MobyDep y el temido Kraken, son las mayores especies Marinas, que navegan por los Siete Mares sin limitacion alguna ni riesgo para sus tripulantes.       
 
-Por lastima; el Kraken no acepta tripulantes marines, aunque como hacia MobyDeep, aun se los traga vivos.       
+Por lastima; el Kraken no acepta tripulantes marines, aunque como hacia MobyDep, aun se los traga vivos.       
 
 MobyDep desde que se convirtio en nave ya no traga a marines ni marineros, aprendio la leccion y ahora los debe convertir en auténticos Piratas del infinito mar de las profundidades y el Universo de la Navegacion en el que habita, sin limites de surcacion, ni reparos en la bifurcación.   
 
@@ -99,7 +99,7 @@ El Barco del Moby-Dep es un Barco y Submarino con vida propia, creado sobre las 
 
 
 
-MobyDee es la Banda de Marines Piratas que navega en Alta Mar lejos de las Leyes y los Horizontes desde que el Mar se convirtio en Oscuro atisbo de insacismo y sus aguas se tragaban cuan todo que por ellas hayara Navegado. 
+MobyDePSe es la Banda de Marines Piratas que navega en Alta Mar lejos de las Leyes y los Horizontes desde que el Mar se convirtio en Oscuro atisbo de insacismo y sus aguas se tragaban cuan todo que por ellas hayara Navegado. 
 
 ![IMG_20250501_203656](https://github.com/user-attachments/assets/39f6274c-a63f-45eb-bc73-0e697d74eea4)
 
@@ -116,7 +116,7 @@ http://GitHub.com/yoqer/mobydee.git
 
 
 
-La MobyDee se compone de varios grupos que organizan la estrategia, tanto la de maquinas, hasta la de Abordaje, pasando por un sin fin de tareas y proezas, desde la pesca y marinería, hasta los pesados trabajos de los remeros que en ocasiones ante barcos de Corsarios y Bucaneros, deben todos de tomar.
+La MobyDePSe se compone de varios grupos que organizan la estrategia, tanto la de maquinas, hasta la de Abordaje, pasando por un sin fin de tareas y proezas, desde la pesca y marinería, hasta los pesados trabajos de los remeros que en ocasiones ante barcos de Corsarios y Bucaneros, deben todos de tomar.
 
 
 
@@ -152,6 +152,10 @@ http://GitHub.com/yoqer/deepseek.git
 
 
 .
+
+.
+
+
 
 
 
