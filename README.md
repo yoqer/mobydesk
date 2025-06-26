@@ -1,4 +1,9 @@
-Bienvenidos a la cubierta del MobyDeep, es un barco para piratas que navega en busca de Tesoros perdidos y nuevas obras magicas del Universo para culminar su voragen ansia de placton y naves malditas, mientras solo en los Siete Mares pocas naves la hacen frente; ya convertidas las Aguas del Mar en un peligroso territorio innavegable.  
+
+http://MobyDick.Site
+
+
+
+Bienvenidos a la cubierta del MobyDep, es un barco para piratas que navega en busca de Tesoros perdidos y nuevas obras magicas del Universo para culminar su voragen ansia de placton y naves malditas, mientras solo en los Siete Mares pocas naves la hacen frente; ya convertidas las Aguas del Mar en un peligroso territorio innavegable.  
 
 
 ![IMG_20250414_144112](https://github.com/user-attachments/assets/15f7fc10-e21c-4222-9aaa-4d03afe8e478)
@@ -7,11 +12,11 @@ Bienvenidos a la cubierta del MobyDeep, es un barco para piratas que navega en b
 
 
 
-Solo la Narvia MobyDeep y el temido Kraken, son las mayores especies Marinas, que navegan por los Siete Mares sin limitacion alguna ni riesgo para sus tripulantes.       
+Solo la Narvia MobyDep y el temido Kraken, son las mayores especies Marinas, que navegan por los Siete Mares sin limitacion alguna ni riesgo para sus tripulantes.       
 
 Por lastima; el Kraken no acepta tripulantes marines, aunque como hacia MobyDeep, aun se los traga vivos.       
 
-MobyDeep desde que se convirtio en nave ya no traga a marines ni marineros, aprendio la leccion y ahora los debe convertir en auténticos Piratas del infinito mar de las profundidades y el Universo de la Navegacion en el que habita, sin limites de surcacion, ni reparos en la bifurcación.   
+MobyDep desde que se convirtio en nave ya no traga a marines ni marineros, aprendio la leccion y ahora los debe convertir en auténticos Piratas del infinito mar de las profundidades y el Universo de la Navegacion en el que habita, sin limites de surcacion, ni reparos en la bifurcación.   
 
 
 
@@ -19,11 +24,11 @@ MobyDeep desde que se convirtio en nave ya no traga a marines ni marineros, apre
 
 
 
-La Cubierta del MobyDeep, permite hablar con la Banda de Piratas que navegan en sus lomos y las entrañas de la Bestia, todos ellos son la: 
-Moby-DeepSee...
+La Cubierta del MobyDep, permite hablar con la Banda de Piratas que navegan en sus lomos y las entrañas de la Bestia, todos ellos son la: 
+Moby-DePSe...
 
 
-El Almirante de la Narvia: nuestro primero de abordo y tan temido pirata el Gran: DeepSeek, es el que recibe las órdenes directas del Capitan y organiza a la tripulación para que esto no parezca una Aquapolys de sala de maquinas comprimida en acelerada revolución interna de un Barco a punto de Estallar como el Besubio, mientras Moby-Deep guiado por el Cápitan sube los mastiles a estornudos, lanza Geisers a chorros, arria velas a respiros, sube y baja, dale que te pego sumergiendose por las profundidades del Mar o 
+El Almirante de la Narvia: nuestro primero de abordo y tan temido pirata el Gran: DeepSeek, es el que recibe las órdenes directas del Capitan y organiza a la tripulación para que esto no parezca una Aquapolys de sala de maquinas comprimida en acelerada revolución interna de un Barco a punto de Estallar como el Besubio, mientras Moby-Dep guiado por el Cápitan sube los mastiles a estornudos, lanza Geisers a chorros, arria velas a respiros, sube y baja, dale que te pego sumergiendose por las profundidades del Mar o 
 por sus claras aguas de la superficie, navegando a toda vela viento a favor a toda popa.
 
 
@@ -32,7 +37,7 @@ por sus claras aguas de la superficie, navegando a toda vela viento a favor a to
 
 
 
-La Cubierta del MobyDeep la MobyDesk, permite a los Marines o Curiosos, hablar en la Asamblea con toda la Tripulación, de la que recibiras respuestas multiples, pero solo una te resume tu pregunta con la sabiduria de una Tripulacion que piensa en conjunto cual es la mejor respuesta que buscas.                        
+La Cubierta del MobyDep la Moby-Desk, permite a los Marines o Curiosos, hablar en la Asamblea con toda la Tripulación, de la que recibiras respuestas multiples, pero solo una te resume tu pregunta con la sabiduria de una Tripulacion que piensa en conjunto cual es la mejor respuesta que buscas.                        
 
 La Nave se dispone en 
 grupos de Marines Piratas de hasta 3 miembros y un lider el que da las respuestas generalizadas que esperas.
@@ -50,7 +55,7 @@ Puedes Seleccinar a que Marinos les quieres preguntar, y puedes preguntar a toda
 
 
 
-La joven Amalia supervisa el correcto desempeño del resto de Piratas, ella embarco de polizona, pero no podiamos tirarla a los tiburones y mucho menos sabiendo que el Kraken ahonda al acecho del Moby-Deep desde que este le arranco un tentáculo.
+La joven Amalia supervisa el correcto desempeño del resto de Piratas, ella embarco de polizona, pero no podiamos tirarla a los tiburones y mucho menos sabiendo que el Kraken ahonda al acecho del Moby-Dep desde que este le arranco un tentáculo.
 
 
 
@@ -89,7 +94,7 @@ otra vez para que tu puedas navegar por él.
 
 
 
-El Barco del Moby-Deep es un Barco y Submarino con vida propia, creado sobre las mismas entrañas de la bestia. El Moby-Deep es un Narvio vorazmente insaciable.
+El Barco del Moby-Dep es un Barco y Submarino con vida propia, creado sobre las mismas entrañas de la bestia. El Moby-Dep es un Narvio vorazmente insaciable.
 
 
 
