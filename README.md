@@ -104,7 +104,7 @@ MobyDePSe es la Banda de Marines Piratas que navega en Alta Mar lejos de las Ley
 ![IMG_20250501_203656](https://github.com/user-attachments/assets/39f6274c-a63f-45eb-bc73-0e697d74eea4)
 
 
-http://GitHub.com/yoqer/mobydee.git
+http://yoqer.github.io/mobydeep/
 
 
 
