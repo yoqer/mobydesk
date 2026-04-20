@@ -3,7 +3,7 @@ http://MobyDick.site
 
 
 
-Bienvenidos a la cubierta del MobyDep, es un barco para piratas que navega en busca de Tesoros perdidos y nuevas obras magicas del Universo para culminar su voragen ansia de placton y naves malditas, mientras solo en los Siete Mares pocas naves la hacen frente; ya convertidas las Aguas del Mar en un peligroso territorio innavegable.  
+Bienvenidos a la cubierta del [Moby Dep](http://mobydep.com), es un barco para piratas que navega en busca de Tesoros perdidos y nuevas obras magicas del Universo para culminar su voragen ansia de placton y naves malditas, mientras solo en los Siete Mares pocas naves la hacen frente; ya convertidas las Aguas del Mar en un peligroso territorio innavegable.  
 
 
 ![IMG_20250414_144112](https://github.com/user-attachments/assets/15f7fc10-e21c-4222-9aaa-4d03afe8e478)
